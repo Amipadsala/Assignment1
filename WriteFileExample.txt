@@ -1,0 +1,1 @@
+First File abc in Node.JSSecond Line In Write File..
